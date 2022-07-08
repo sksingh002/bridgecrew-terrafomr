@@ -1,1 +1,1 @@
-# bridgecrew-terrafomr
+# snyk-terraform
